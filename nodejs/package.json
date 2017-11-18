@@ -1,0 +1,19 @@
+{
+  "name": "codeit",
+  "version": "1.0.0",
+  "description": "A set of application developed by Ludoi Ltd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunSatION/CodeIt.git"
+  },
+  "author": "Dorian Bugeja Ludoi Ltd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunSatION/CodeIt/issues"
+  },
+  "homepage": "https://github.com/SunSatION/CodeIt#readme"
+}
